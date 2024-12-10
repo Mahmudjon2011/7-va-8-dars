@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: rgb(31, 36, 45) ;
+}
+header{
+    padding-top: 27px;
+  
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 40px;
+}
+.header__link{
+    color: rgb(255, 255, 255);
+font-family: Poppins;
+font-size: 17px;
+font-weight: 400;
+line-height: 26px;
+text-decoration: none;
+transition: 0.5s ease-in-out;
+}
+.header__link:hover{
+    color: blue;
+}
+.header__linkk{
+    color: rgb(0, 238, 255);
+    text-decoration: none;
+}
+.hero__textbox{
+    padding-top: 243px;
+}
+.hero__title{
+    color: white;
+}
+.hero__title2{
+    color: white;
+}
+.hero__title3{
+    color: white;
+}
+span{
+    color: rgb(0, 238, 255);
+}
+.hero__p{
+    color: white;
+}
+.hero__p2{
+    color: white;
+}
+.hero__title2{
+    padding-top: 2px;
+}
+.hero__p{
+    padding-top: 23px;
+}
+.hero__right{
+    padding-top: 31px;
+}
+.hero__btn{
+    border-radius: 40px;
+border: 1px solid aqua;
+font-size: 25px;
+    box-shadow: 0px 0px 10px 0px rgb(0, 238, 255);
+    background: rgb(0, 238, 255);
+}
+.header__btn{
+    padding-top: 30px;
+}
+.hero__4{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 230px;
+}
+.span2{
+    transition: 0.5s ease-in-out;
+    color: white;
+    
+}
+.span2:hover{
+    color: aqua;
+}
+.hero__texbox{
+    padding-top: 27px;
+   
+
+}
+.hero__h1{
+    color: white;
+    padding-top: 20px;
+}
+.hero__p1{
+    color: white;
+    padding-top: 10px;
+}
+.hero__p5{
+    color: white;
+}
+.hero__p10{
+    color: white;
+}
+.hero__p20{
+    color: white;
+    padding-top: 23px;
+}
+.hero__bbbtn{
+    border-radius: 40px;
+border: 1px solid aqua;
+font-size: 30px;
+box-shadow: 0px 0px 10px 0px rgb(0, 238, 255);
+background: rgb(0, 238, 255);
+}
+.hero__bbtn{
+    padding-top: 82px;
+    font-size: 50px;
+}
+.omsan{
+padding-top: 30px;
+    width: 100px;
+    margin: 0 auto;
+}
+.header__h1{
+    text-align: center;
+    color: white;
+}
+
+
